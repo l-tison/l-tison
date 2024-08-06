@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @l-tison
 - 👀 I’m interested in coding, hydrogeology
-- 🌱 I’m currently learning Python, R & GIT
+- 🌱 I’m currently learning Python, QGIS, R & GIT
 - 💞️ I’m looking to collaborate on applied coding for data analysing and tasks automatisation
 
 <!---
